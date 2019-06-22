@@ -1,2 +1,4 @@
 # Zomato_bangalore_restaurant_opening_prediction
 Restaurants from all over the world can be found here in Bengaluru. The number of restaurant are increasing day by day. And new restaurants are opening every day. However it has become difficult for them to compete with already established restaurants. Here we are using Zomato data aims at analysing demography of the location. Most importantly it will help new restaurants in deciding their theme, menus, cuisine, cost etc for a particular location. It also aims at finding similarity between neighborhoods of Bengaluru on the basis of food. The dataset also contains reviews for each of the restaurant which will help in finding overall rating for the place.
+The dataset I am using is picked-up form Kaggle go to the link for elaborated description.
+https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants/downloads/zomato-bangalore-restaurants.zip/1
